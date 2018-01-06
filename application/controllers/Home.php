@@ -12,7 +12,7 @@ class Home extends General_controller {
 	public function index()
 	{
 		$data = array(
-			"title" => "Mitsukoka"
+			"title" => "Mitsukoka Group"
 		);
 		
 		parent::view("home", $data);
