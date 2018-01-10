@@ -8,6 +8,15 @@
             <div class="contact-icon" style="background-image: url(<?php echo base_url("assets/icons/whatsapp.png"); ?>);"></div>
             <div class="contact-text">08787 22222 86</div>
             <div class="separator"></div>
+            <div class="contact-icon" style="background-image: url(<?php echo base_url("assets/icons/instagram.png"); ?>);"></div>
+            <div class="contact-text">@mitsukokagroup</div>
+            <div class="separator"></div>
+            <div class="contact-icon" style="background-image: url(<?php echo base_url("assets/icons/instagram.png"); ?>);"></div>
+            <div class="contact-text">@mitsukoka.rooms</div>
+            <div class="separator"></div>
+            <div class="contact-icon" style="background-image: url(<?php echo base_url("assets/icons/instagram.png"); ?>);"></div>
+            <div class="contact-text">@mitsukoka.flights</div>
+            <div class="separator"></div>
             <div class="contact-icon" style="background-image: url(<?php echo base_url("assets/icons/line.png"); ?>);"></div>
             <div class="contact-text">mitsukoka.group</div>
             <div class="separator"></div>
@@ -15,7 +24,7 @@
             <div class="contact-text">MITSUKO</div>
             <div class="separator"></div>
             <div class="contact-icon" style="background-image: url(<?php echo base_url("assets/icons/email.png"); ?>);"></div>
-            <div class="contact-text">admin@mitsukoka.com</div>
+            <div class="contact-text">reservation@mitsukoka.com</div>
             <div class="separator"></div>
             <div class="contact-icon" style="background-image: url(<?php echo base_url("assets/icons/email.png"); ?>);"></div>
             <div class="contact-text">admin@mitsukokagroup.com</div>

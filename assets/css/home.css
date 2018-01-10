@@ -58,6 +58,22 @@
 	.center {
 		margin-top: 0;
 	}
+
+	.image {
+		width: 55vw;
+		height: 25vw;
+		margin-bottom: 10vw;
+	}
+
+	.contact-icon {
+		width: 5vw;
+		height: 5vw;
+	}
+
+	.contact-text {
+		font-size: 3.5vw;
+		margin-left: 1vw;
+	}
 }
 
 @media all and (min-width: 1025px) {

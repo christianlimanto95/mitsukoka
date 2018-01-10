@@ -21,7 +21,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
 
 	<link rel="stylesheet" href="<?php echo base_url("assets/css/common/default.css"); ?>" />
-	<link rel="stylesheet" href="<?php echo base_url("assets/css/" . $page_name . ".css"); ?>" />
+	<link rel="stylesheet" href="<?php echo base_url("assets/css/" . $page_name . ".css?v=1"); ?>" />
 	
 	<meta name="description" content="Your one stop solution for organization, community, public service, travel & food." />
 	<meta name="keywords" content="apartemen harian, apartemen bulanan, sewa apartemen surabaya, apartemen mewah, apartemen surabaya, sewa villa" />
