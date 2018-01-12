@@ -14,6 +14,9 @@
             <div class="contact-icon" style="background-image: url(<?php echo base_url("assets/icons/instagram.png"); ?>);"></div>
             <div class="contact-text">@mitsukoka.flights</div>
             <div class="separator"></div>
+            <div class="contact-icon" style="background-image: url(<?php echo base_url("assets/icons/instagram.png"); ?>);"></div>
+            <div class="contact-text">@mitsukoka.decor</div>
+            <div class="separator"></div>
             <div class="contact-icon" style="background-image: url(<?php echo base_url("assets/icons/line.png"); ?>);"></div>
             <div class="contact-text">mitsukoka.group</div>
             <div class="separator"></div>
