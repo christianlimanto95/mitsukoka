@@ -25,21 +25,22 @@ body {
   color: white;
 }
 
-@media all and (max-width: 1279px) {
+@media all and (max-width: 1024px) {
   .div-mobile {
     display: block;
   }
 
   .section {
-    height: 100vh;
+    min-height: 100vh;
+    padding-bottom: 10vw;
   }
 }
 
-@media all and (min-width: 768px) and (max-width: 1279px) {
+@media all and (min-width: 768px) and (max-width: 1024px) {
 
 }
 
-@media all and (min-width: 1280px) {
+@media all and (min-width: 1025px) {
   .div-mobile {
     display: none;
   }
